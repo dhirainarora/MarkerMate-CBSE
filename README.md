@@ -8,6 +8,12 @@ Students can submit answers (typed or via image), and the system evaluates them 
 
 ---
 
+## 🌐 Live Demo
+
+👉 https://marker-mate-cbse-98c9.vercel.app
+
+---
+
 ## 🎯 Problem It Solves
 
 Students often struggle with:
@@ -86,25 +92,3 @@ git clone https://github.com/your-username/MarkerMate-CBSE.git
 cd MarkerMate-CBSE
 npm install
 npm run dev
-```
-
----
-
-## 🔮 Future Improvements
-
-* Hindi & bilingual support
-* More subjects & classes
-* Better OCR for handwriting
-* AI-powered mock tests
-
----
-
-## 👨‍💻 Author
-
-Dhirain
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ and share it!
