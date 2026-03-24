@@ -1,0 +1,273 @@
+[
+  {
+    "id": "ed2c4de0-bf92-478a-b72d-257a747be3e0",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "English",
+    "questionType": "descriptive",
+    "markWeight": 1,
+    "expectedStructure": "One direct, accurate point or definition.",
+    "keyPoints": [
+      "Exact answer",
+      "No unnecessary filler",
+      "Uses subject language clearly"
+    ],
+    "presentationChecklist": [
+      "Precise wording",
+      "On-topic response"
+    ],
+    "sampleExpectations": [
+      "Definition",
+      "Theme",
+      "Character trait"
+    ]
+  },
+  {
+    "id": "a9bed898-772e-4bd7-81aa-57281c9f03a6",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "English",
+    "questionType": "descriptive",
+    "markWeight": 2,
+    "expectedStructure": "Two clear points or one point with brief support.",
+    "keyPoints": [
+      "Two relevant ideas",
+      "Text-based support if needed",
+      "No repetition"
+    ],
+    "presentationChecklist": [
+      "Clear sentence structure",
+      "Specific evidence"
+    ],
+    "sampleExpectations": [
+      "Reason plus example",
+      "Meaning plus effect"
+    ]
+  },
+  {
+    "id": "0f638afd-7339-4bb6-a715-6fe111a7fb59",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "English",
+    "questionType": "descriptive",
+    "markWeight": 3,
+    "expectedStructure": "Three relevant points or a short structured explanation.",
+    "keyPoints": [
+      "Coverage",
+      "Explanation",
+      "Logical flow"
+    ],
+    "presentationChecklist": [
+      "Brief opening",
+      "Coherent order",
+      "Accurate expression"
+    ],
+    "sampleExpectations": [
+      "Theme analysis",
+      "Character explanation",
+      "Poetic device with impact"
+    ]
+  },
+  {
+    "id": "716c2c96-564f-4aa5-96f4-5cf2b0053f23",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "English",
+    "questionType": "descriptive",
+    "markWeight": 5,
+    "expectedStructure": "Brief introduction, developed explanation, and a concluding line.",
+    "keyPoints": [
+      "Breadth of points",
+      "Depth of explanation",
+      "Text support",
+      "Conclusion"
+    ],
+    "presentationChecklist": [
+      "Paragraph structure",
+      "Balanced coverage",
+      "Relevant vocabulary"
+    ],
+    "sampleExpectations": [
+      "Long answer",
+      "Analytical response"
+    ]
+  },
+  {
+    "id": "cb7b8b1d-3bf9-4657-b517-fdb3b0aaa25f",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Science",
+    "questionType": "descriptive",
+    "markWeight": 1,
+    "expectedStructure": "Single correct concept, term, or fact.",
+    "keyPoints": [
+      "Scientific accuracy",
+      "Direct response"
+    ],
+    "presentationChecklist": [
+      "No conceptual errors"
+    ],
+    "sampleExpectations": [
+      "Definition",
+      "Name of process",
+      "Formula fact"
+    ]
+  },
+  {
+    "id": "6933a1d2-f187-4e2b-8108-d1adaa76fbd8",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Science",
+    "questionType": "descriptive",
+    "markWeight": 2,
+    "expectedStructure": "Two scientific points or one explained point.",
+    "keyPoints": [
+      "Correct concept",
+      "Cause/effect if relevant",
+      "Terminology"
+    ],
+    "presentationChecklist": [
+      "Compact explanation",
+      "No vague wording"
+    ],
+    "sampleExpectations": [
+      "Two reasons",
+      "One process with explanation"
+    ]
+  },
+  {
+    "id": "b05181a3-73a2-4fad-9d79-8224b626490b",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Science",
+    "questionType": "descriptive",
+    "markWeight": 3,
+    "expectedStructure": "Three points or stepwise explanation.",
+    "keyPoints": [
+      "Sequence",
+      "Accuracy",
+      "Relevant example"
+    ],
+    "presentationChecklist": [
+      "Stepwise clarity",
+      "Proper scientific terms"
+    ],
+    "sampleExpectations": [
+      "Process explanation",
+      "Differences",
+      "Applications"
+    ]
+  },
+  {
+    "id": "6f807352-a45b-4ea3-9279-b0bae58c8284",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Science",
+    "questionType": "descriptive",
+    "markWeight": 5,
+    "expectedStructure": "Introduction, core explanation, and final result/application.",
+    "keyPoints": [
+      "Full process coverage",
+      "Why/how explanation",
+      "Examples or applications"
+    ],
+    "presentationChecklist": [
+      "Organized points",
+      "Key terms",
+      "Conclusion"
+    ],
+    "sampleExpectations": [
+      "Long answer",
+      "Concept plus application"
+    ]
+  },
+  {
+    "id": "058c8470-197d-4a9d-9c47-29f655df6df4",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Social Science",
+    "questionType": "descriptive",
+    "markWeight": 1,
+    "expectedStructure": "One factual, exact point.",
+    "keyPoints": [
+      "Historical/civic/geographic accuracy",
+      "Direct match to question"
+    ],
+    "presentationChecklist": [
+      "Factually correct wording"
+    ],
+    "sampleExpectations": [
+      "Term",
+      "Name",
+      "One reason"
+    ]
+  },
+  {
+    "id": "aac0e57d-13d8-4a9b-b226-0eedcfa050ac",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Social Science",
+    "questionType": "descriptive",
+    "markWeight": 2,
+    "expectedStructure": "Two relevant points or one point with explanation.",
+    "keyPoints": [
+      "Key facts",
+      "Specific example or reason"
+    ],
+    "presentationChecklist": [
+      "No generic statements",
+      "Direct relevance"
+    ],
+    "sampleExpectations": [
+      "Two causes",
+      "Two impacts",
+      "Reason plus example"
+    ]
+  },
+  {
+    "id": "64931745-69c7-4c43-bb0f-6b51129c521e",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Social Science",
+    "questionType": "descriptive",
+    "markWeight": 3,
+    "expectedStructure": "Three points in clear order with brief explanation.",
+    "keyPoints": [
+      "Coverage",
+      "Specificity",
+      "Context"
+    ],
+    "presentationChecklist": [
+      "Structured answer",
+      "Named examples where needed"
+    ],
+    "sampleExpectations": [
+      "Three features",
+      "Three effects",
+      "Event explanation"
+    ]
+  },
+  {
+    "id": "ec25e91e-2f7d-430b-9442-8465a61fb6a6",
+    "createdAt": "2026-03-23T14:10:43.914Z",
+    "updatedAt": "2026-03-23T14:10:43.914Z",
+    "subject": "Social Science",
+    "questionType": "descriptive",
+    "markWeight": 5,
+    "expectedStructure": "Intro line, developed points, and concise conclusion.",
+    "keyPoints": [
+      "Range of points",
+      "Contextual detail",
+      "Examples",
+      "Conclusion"
+    ],
+    "presentationChecklist": [
+      "Paragraph or bullet organization",
+      "Balanced explanation"
+    ],
+    "sampleExpectations": [
+      "Long theory answer",
+      "Compare/explain with examples"
+    ]
+  }
+]

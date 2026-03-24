@@ -1,0 +1,44 @@
+[
+  {
+    "id": "3088091b-fed0-441f-9ac7-d89bcb4d799c",
+    "userId": "196ca564-c59c-456f-a565-90b3b21470b5",
+    "subject": "English",
+    "questionText": "“Griffin is a brilliant scientist but not a wise human being.”\r\nJustify this statement with reference to the story.",
+    "answerText": "Griffin was a brilliant scientist because he discovered how to become invisible. However, he misused his intelligence for selfish purposes. He set his landlord’s house on fire and stole money and clothes. Instead of helping society, he created trouble for others. This shows that he was not wise as he used his knowledge wrongly.",
+    "markWeight": 5,
+    "topic": "english chapter from footprint without feet",
+    "status": "graded",
+    "assets": [],
+    "createdAt": "2026-03-23T14:10:18.713Z",
+    "updatedAt": "2026-03-23T14:10:43.919Z",
+    "gradingResult": {
+      "id": "57b72859-3c00-47e1-a456-106ff5a9d944",
+      "awardedMarks": 3.2,
+      "maxMarks": 5,
+      "overallVerdict": "Partially correct",
+      "strengths": [
+        "Your answer addresses the question directly.",
+        "The answer has usable structure for the mark range.",
+        "There is enough base content to improve with a few focused additions."
+      ],
+      "missingPoints": [
+        "Breadth of points",
+        "Depth of explanation",
+        "Text support",
+        "Conclusion"
+      ],
+      "improvementSuggestions": [
+        "Match the 5-mark weightage by writing at least 5 clear ideas.",
+        "Use textbook-style words related to English.",
+        "Keep every sentence focused on the exact demand of the question.",
+        "Add specific points from the rubric such as Breadth of points and Depth of explanation."
+      ],
+      "idealAnswerApproach": "For this 5-mark English answer, begin with a direct response to \"“Griffin is a brilliant scientist but not a wise human being.”\r\nJustify this statement with reference to the story.\". Then organize the explanation as \"Griffin was a brilliant scientist because he discovered how to become invisible\", \"However, he misused his intelligence for selfish purposes\", \"He set his landlord’s house on fire and stole money and clothes\", \"Instead of helping society, he created trouble for others\", \"This shows that he was not wise as he used his knowledge wrongly\". Finish with a concluding line or application.",
+      "rewrittenSampleAnswer": "Answering the 5-mark English question \"“Griffin is a brilliant scientist but not a wise human being.”\r\nJustify this statement with reference to the story.\": 1. Griffin was a brilliant scientist because he discovered how to become invisible 2. However, he misused his intelligence for selfish purposes 3. He set his landlord’s house on fire and stole money and clothes 4. Instead of helping society, he created trouble for others 5. This shows that he was not wise as he used his knowledge wrongly Conclude with one final summarizing line.",
+      "confidence": 0.9,
+      "needsManualReview": false,
+      "justification": "The answer has some correct content, but it does not fully meet the expected depth and structure for this mark range.",
+      "createdAt": "2026-03-23T14:10:43.918Z"
+    }
+  }
+]
